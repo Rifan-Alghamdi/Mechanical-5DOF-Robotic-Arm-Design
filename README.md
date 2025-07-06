@@ -1,5 +1,5 @@
-![preview](5-DOF-Robotic-Arm-Screenshot.jpg)
 # Mechanical Task 1 – 5-DOF Robotic Arm Design
+![preview](5-DOF-Robotic-Arm-Screenshot.jpg)
 
 This project demonstrates the 3D design of a robotic arm with five degrees of freedom (5 DOF), created using Tinkercad. The arm simulates the structure and movement of a basic robotic manipulator.
 
